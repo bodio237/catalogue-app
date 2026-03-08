@@ -1,0 +1,72 @@
+export const products = [
+  {
+    id: 1,
+    name: "Casque audio",
+    category: "Électronique",
+    price: 89,
+    stock: 12,
+  },
+  {
+    id: 2,
+    name: "Sac à dos",
+    category: "Accessoires",
+    price: 59,
+    stock: 4,
+  },
+  {
+    id: 3,
+    name: "Lampe LED",
+    category: "Maison",
+    price: 35,
+    stock: 7,
+  },
+  {
+    id: 4,
+    name: "Montre connectée",
+    category: "Électronique",
+    price: 129,
+    stock: 9,
+  },
+  {
+    id: 5,
+    name: "Clavier mécanique",
+    category: "Informatique",
+    price: 99,
+    stock: 6,
+  },
+  {
+    id: 6,
+    name: "Souris gaming",
+    category: "Informatique",
+    price: 49,
+    stock: 15,
+  },
+  {
+    id: 7,
+    name: "Chaise de bureau",
+    category: "Mobilier",
+    price: 189,
+    stock: 3,
+  },
+  {
+    id: 8,
+    name: "Support ordinateur",
+    category: "Accessoires",
+    price: 29,
+    stock: 11,
+  },
+  {
+    id: 9,
+    name: "Webcam HD",
+    category: "Informatique",
+    price: 79,
+    stock: 8,
+  },
+  {
+    id: 10,
+    name: "Bouteille isotherme",
+    category: "Maison",
+    price: 25,
+    stock: 20,
+  }
+];
