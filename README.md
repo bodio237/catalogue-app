@@ -1,5 +1,6 @@
-# 🛍️ Catalogue Produits – Application Full Stack
+# Catalogue Produits – Application Full Stack
 
+**Live Demo** : https://catalogue-app-silk.vercel.app
 Application web full-stack permettant de gérer un catalogue de produits avec une interface publique et une interface d'administration.
 
 Ce projet démontre la création d'une application complète avec :
@@ -12,7 +13,7 @@ Ce projet démontre la création d'une application complète avec :
 
 ---
 
-# 📸 Aperçu de l'application
+# Aperçu de l'application
 
 ## Catalogue des produits
 
@@ -32,7 +33,7 @@ Ce projet démontre la création d'une application complète avec :
 
 ---
 
-# 🚀 Fonctionnalités
+# Fonctionnalités
 
 ### Catalogue
 
@@ -71,7 +72,7 @@ POST /api/products
 DELETE /api/products/[id]
 → supprimer un produit
 
-# 🧠 Technologies utilisées
+# Technologies utilisées
 
 ## Frontend
 
@@ -91,7 +92,7 @@ DELETE /api/products/[id]
 
 ---
 
-# 🗂️ Architecture du projet
+# Architecture du projet
 
 catalogue-app
 ├── app
@@ -130,7 +131,7 @@ catalogue-app
 ├── package.json
 └── README.md
 
-# ⚙️ Installation
+# Installation
 
 Cloner le projet :
 
