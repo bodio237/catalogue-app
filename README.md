@@ -88,7 +88,7 @@ DELETE /api/products/[id]
 ## Base de données
 
 - Prisma ORM
-- SQLite
+- PostgreSQL
 
 ---
 
